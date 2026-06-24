@@ -3,7 +3,7 @@ title: 今天弄丢一把伞
 published: 2026-06-21
 tags: [日常]
 category: 日常
-draft: false
+draft: true
 ---
 
 # 今天弄丢一把伞
